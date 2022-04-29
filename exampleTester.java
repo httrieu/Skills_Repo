@@ -8,6 +8,6 @@ public class exampleTester {
     @Test
     public void subtractor1() {
         example sub = new example();
-        assertEquals(3, sub.subtractor(2, 1));
+        assertEquals(1, sub.subtractor(2, 1));
     }
 }
